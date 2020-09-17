@@ -1,16 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "com.droxic.grohesense"
+            "DZSH6U2G76.com.droxic.grohesense"
         ]
     },
     "applinks": {
         "apps": [
-            "com.droxic.grohesense"
+            "DZSH6U2G76.com.droxic.grohesense"
         ],
         "details": [
             {
-                "appID": "com.droxic.grohesense",
+                "appID": "DZSH6U2G76.com.droxic.grohesense",
                 "paths": [
                     "*"
                 ]
