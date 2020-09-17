@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "com.droxic.grohesense"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "com.droxic.grohesense"
+        ],
+        "details": [
+            {
+                "appID": "com.droxic.grohesense",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
